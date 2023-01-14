@@ -1,0 +1,19 @@
+{
+  "name": "Martha Osika",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "A Frontend developer that is passionate about building beautiful and responsive websites.",
+  "avatar": "https://github.com/Mataoseeker.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/martha_ochuko",
+      "icon": "FaTwitter"
+    },
+     {
+      "name": "Follow me on LinkedIn",
+      "url": "https://linkedin.com/in/marthaosika",
+      "icon": "FaLinkedin"
+    }
+  ]
+}
